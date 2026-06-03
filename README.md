@@ -1,7 +1,9 @@
 
 # Hey, I'm Amrit 👋
 
-I'm a data analyst  based in Houston, TX with 8 years of experience turning messy data into something useful. I currently work at Boeing supporting NASA's ISS software database — building ETL pipelines, automating reporting systems, and keeping data clean at a scale.
+I'm a data analyst  based in Houston, TX with 8 years of experience turning messy data into something useful. I currently work at Boeing, where I support NASA's International Space Station software database — building ETL pipelines, automating reporting systems, and keeping data clean at a scale.
+
+My background is a bit unconventional (Economics degree, built my way into the data world), and I think that's made me a better analyst. I know how to ask the right business questions, not just write the queries.
 
 I'm building out this portfolio to show the work I do in a more visible way. Expect pipelines, SQL, dbt projects, and dashboards.
 
@@ -34,5 +36,5 @@ I'm building out this portfolio to show the work I do in a more visible way. Exp
 
 ---
 
-*Economics degree from Texas A&M · Data Analytics cert from Rice · Lifelong builder.*
+*Texas A&M Economics '18 · Rice Data Analytics cert '19 · still learning every day.*
     
