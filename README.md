@@ -22,7 +22,7 @@ I'm building out this portfolio to show the work I do in a more visible way. Exp
 
 | Project | Description | Stack |
 |---|---|---|
-| 🚧 `dbt-analytics` | Data modeling project with staging, marts, and tests | dbt · DuckDB · SQL |
+| 🚧 `dbt-analytics` https://github.com/amritperera/dbt-analytics | Data modeling project with staging, marts, and tests | dbt · DuckDB · SQL |
 | 🚧 `etl-pipeline` | End-to-end pipeline from API → transformed data → dashboard | Python · Airflow · Tableau |
 
 *(more coming — check back soon)*
